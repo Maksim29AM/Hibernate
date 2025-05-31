@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pl.coderslab</groupId>
-    <artifactId>sample</artifactId>
+    <artifactId>JEE_W_30_Hibernate</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <packaging>war</packaging>
